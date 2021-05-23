@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53618805038",
+    "firebase_url": "https://medvirumalfinal.firebaseio.com",
+    "project_id": "medvirumalfinal",
+    "storage_bucket": "medvirumalfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53618805038:android:f556934f772a08c8c352bf",
+        "android_client_info": {
+          "package_name": "com.medvirumal.ecomstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53618805038-jb2gmqpaibkdueo8qre04lj7llgbr4cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_Yrov7AmD-vNPqjeS7zMhm6anzJIRC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53618805038-jb2gmqpaibkdueo8qre04lj7llgbr4cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
